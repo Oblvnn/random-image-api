@@ -13,14 +13,11 @@ function getImagesFromDir($path) {
     }
     return $images;
 }
-
 function getRandomFromArray($ar) {
     mt_srand( (double)microtime() * 1000000 );
     $num = array_rand($ar);
     return $ar[$num];
 }
-
 $imgList = getImagesFromDir($root . $path);
-
 $img = getRandomFromArray($imgList);
 ?>
