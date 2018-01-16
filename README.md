@@ -1,8 +1,8 @@
 # random-image-api
-[![GitHub License](https://img.shields.io/github/license/OblivionSan/random-image-api.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/blob/master/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/OblivionSan/random-image-api.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/OblivionSan/random-image-api.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/network)
-[![GitHub issues](https://img.shields.io/github/issues/OblivionSan/random-image-api.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/issues)
+[![GitHub License](https://img.shields.io/github/license/OblivionSan/random-image-api.svg?style=flat-square)](https://github.com/OblivionSan/random-image-api/blob/master/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/OblivionSan/random-image-api.svg?style=flat-square)](https://github.com/OblivionSan/random-image-api/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/OblivionSan/random-image-api.svg?style=flat-square)](https://github.com/OblivionSan/random-image-api/network)
+[![GitHub issues](https://img.shields.io/github/issues/OblivionSan/random-image-api.svg?style=flat-square)](https://github.com/OblivionSan/random-image-api/issues)
 
 > A simple random-image-api written in PHP.
 
